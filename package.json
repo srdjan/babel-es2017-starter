@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Boilerplate for using async/await with babel",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Srdjan/babel-es2017-starter"
+  },
   "scripts": {
     "build": "./node_modules/.bin/babel src -d dist --source-maps",
     "test": "test"
