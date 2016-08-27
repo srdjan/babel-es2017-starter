@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/app.js"],"names":["name","console","log","sayHi"],"mappings":";+BAAA,WAAqBA,IAArB,EAA2B;AACvB,UAAMC,QAAQC,GAAR,CAAY,WAAWF,IAAvB,CAAN;AACH,G;;kBAFcG,K;;;;;;;AAIfA,MAAM,QAAN","file":"app.js","sourcesContent":["async function sayHi(name) {\n    await console.log(\"Hello \" + name);\n}\n \nsayHi(\"Srdjan\")"]}

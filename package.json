@@ -1,0 +1,19 @@
+{
+  "name": "babel-es2017-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate for using async/await with babel",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src -d dist --source-maps",
+    "test": "test"
+  },
+  "author": "@djidja8 <srdjan@timok.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-preset-es2017": "^6.14.0"
+  },
+  "dependencies": {
+    "babel-preset-es2017": "^6.14.0"
+  }
+}
