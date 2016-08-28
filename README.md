@@ -1,4 +1,4 @@
-# babel-es2017-starter project for VSCode
+# Starter project for VSCode: Async-Await with Babel es2017 preset
 
 ### after cloning the repo - run following to install deps:
 ```shell
